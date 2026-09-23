@@ -1,10 +1,16 @@
-# Zion AI SRE Postmortem Writer
+# 🌐 Part of the Zion App Network
 
-Blameless postmortems auto-drafted from incident data.
+**Zion AI SRE Postmortem Writer** is one of 533+ interconnected apps in the Zion Tech Group network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-ai-postmortem](https://github.com/Zion-support/zion-ai-postmortem) · [postmortem-generator](https://github.com/Zion-support/postmortem-generator) · [zion-ai-incident-responder](https://github.com/Zion-support/zion-ai-incident-responder) · [incident-timeline-reconstructor](https://github.com/Zion-support/incident-timeline-reconstructor)
+- 🏠 [ziontechgroup.com](https://ziontechgroup.com)
+- 🗂️ [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 📚 [Master Catalog](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- 📊 [Status](https://zion-support.github.io/zion-status/) · 💳 [Plans](https://zion-support.github.io/plans/) · 🧭 [Portal](https://zion-support.github.io/zion-portal/)
+- 📣 [App Network Showcase](https://ziontechgroup.com/app-network/)
+
+## Related apps
+- [Postmortem Generator](https://github.com/Zion-support/postmortem-generator)
+- [Zion AI Incident Runbook](https://github.com/Zion-support/zion-ai-incident-runbook)
+- [AI Incident Timeline](https://github.com/Zion-support/ai-incident-timeline)
 
 *Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
