@@ -7,7 +7,7 @@ Zion AI SRE Postmortem Writer — blameless postmortems auto-drafted from incide
 
 ## Related apps in the network
 
-- [Zion AI Postmortem](https://github.com/Zion-support/zion-ai-postmortem) — postmortems for LLM/agent failures
+- [Zion AI Postmortem](https://github.com/Zion-support/zion-ai-postmortem) — blameless postmortems for LLM/agent failures
 - [Postmortem Generator](https://github.com/Zion-support/postmortem-generator) — structured incident reviews
 - [Incident Timeline Reconstructor](https://github.com/Zion-support/incident-timeline-reconstructor) — reconstruct incident timelines
 - [Zion AI Incident Commander](https://github.com/Zion-support/zion-ai-incident-commander) — incident response orchestration
